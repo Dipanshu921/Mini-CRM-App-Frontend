@@ -1,6 +1,6 @@
-# 🚀 CRM Platform – Xeno SDE Internship Assignment 2025
+# 🚀 CRM Platform 
 
-An intelligent CRM system developed as part of the Xeno SDE Internship challenge. The platform empowers dynamic customer segmentation, campaign management, and AI-driven personalization.
+An intelligent CRM system. The platform empowers dynamic customer segmentation, campaign management, and AI-driven personalization.
 
 ---
 
@@ -15,11 +15,10 @@ An intelligent CRM system developed as part of the Xeno SDE Internship challenge
 ## 📚 Table of Contents
 
 1. [Live Demo](#live-demo)  
-2. [Demo Video](#demo-video)  
-3. [Key Features](#key-features)  
-4. [Tech Stack](#tech-stack)  
-5. [Known Limitations & Assumptions](#known-limitations--assumptions)  
-6. [Future Scope](#future-scope)
+2. [Key Features](#key-features)  
+3. [Tech Stack](#tech-stack)  
+4. [Known Limitations & Assumptions](#known-limitations--assumptions)  
+5. [Future Scope](#future-scope)
 
 ---
 
@@ -28,11 +27,6 @@ An intelligent CRM system developed as part of the Xeno SDE Internship challenge
 - **Frontend:** [https://xeno-crm-ivory-ten.vercel.app](https://xeno-crm-ivory-ten.vercel.app)  
 - **Backend:** [https://xeno-crm-render.onrender.com](https://xeno-crm-render.onrender.com)
 
----
-
-## 🎥 Demo Video
-
-📽️ [Demo Video Link](https://drive.google.com/file/d/1w-WiTPa2gKfR15nORWmXhPBbJHn8ggZ1/view)
 
 ---
 
@@ -42,7 +36,6 @@ An intelligent CRM system developed as part of the Xeno SDE Internship challenge
 
 - Upload customer and order CSVs.
 - REST APIs with file upload and backend validation.
-- Swagger UI for API testing.
 
 ### 🎯 Segmentation & Campaigns
 
